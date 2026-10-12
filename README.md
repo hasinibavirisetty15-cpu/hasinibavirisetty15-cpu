@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Hasini! 👋
 
-<!--
-**hasinibavirisetty15-cpu/hasinibavirisetty15-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year BSc Computer Science student
 
-Here are some ideas to get you started:
+💻 Learning Python, programming fundamentals,
+and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently working on:
+- Improving my Python skills
+- Learning Git and GitHub
+- Building beginner-friendly projects
+- Developing problem-solving skills
+
+🛠️ Technologies I'm learning:
+- Python
+- C
+- Java
+- HTML and CSS
+- SQL and databases
+
+🎯 My goal:
+To become a skilled software developer by
+building practical projects and learning
+through hands-on experience.
+
+📍 Visakhapatnam, India
+
+✨ One step at a time, one project at a time!
